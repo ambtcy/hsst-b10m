@@ -1,4 +1,9 @@
-HSST B10m  examples.
+Title: HSST B10m  examples.
+Author: A. Chalkley
+Date: 17/05/2024
+Purpose:
+This repository contains teaching examples for HSST training course.
 
-Please Run on Binder:
+Please run via Binder:
 https://mybinder.org/v2/gh/ambtcy/hsst-b10m.git/HEAD
+
